@@ -15,47 +15,6 @@
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
-.logo {
-    width: 60px;
-    height: 60px;
-    
-}
-
-.nav-links {
-    width: 20%;
-    padding-top: 10px;
-}
-
-.nav-links > ul {
-    list-style: none;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.nav-links > ul > li > a {
-    text-decoration: none;
-    color: black;
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.login > button {
-    padding: 8px;
-    border: none;
-    font-size: 20px;
-    cursor: pointer;
-    border: 1px solid rgb(0, 85, 255);
-    color: rgb(0, 85, 255);
-    background: transparent;
-    border-radius: 5px;
-    font-weight: 600;
-}
-
-.carousel-image {
-    width: 100%;
-}
-
   /* Add simple styles for sorting buttons */
 button {
     padding: 10px 20px;
